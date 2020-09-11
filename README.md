@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 👨‍💻 I'm a software developer at [Novasa](https://novasa.com) and have my own company ([Ulties](https://ulties.com)) on the spare time.
+- 💌 You can get in touch with me at [email](mailto:mark@ulties.com), [Twitter](https://twitter.com/webmanio) or [Facebook](https://facebook.com/marktopper).
+- 🔨 Currently I'm working on some **open source** projects that can be seen at the [Ulties](https://github.com/ulties) organisation.
+
 <!--
 **marktopper/marktopper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
